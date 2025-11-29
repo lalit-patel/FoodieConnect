@@ -40,5 +40,5 @@ Orders:
 
 ## Screenshots
 
-![Swagger UI](https://github.com/user-attachments/assets/c1df9710-39ac-4661-ae3c-5a3f98d7a669")
+![Swagger UI](https://github.com/user-attachments/assets/c1df9710-39ac-4661-ae3c-5a3f98d7a669)
 
